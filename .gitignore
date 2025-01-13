@@ -87,3 +87,7 @@ DerivedDataCache/*
 
 # SteamVR Generated files
 Config/steamvr_ue_editor_app.json
+
+
+.vsconfig
+Plugins/OptiTrack/
