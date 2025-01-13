@@ -1,3 +1,6 @@
 [submodule "Plugins/TBRaymarcherPlugin"]
 	path = Plugins/TBRaymarcherPlugin
 	url = https://github.com/tommybazar/TBRaymarcherPlugin.git
+[submodule "Plugins/ARENA2lkit"]
+	path = Plugins/ARENA2lkit
+	url = https://git.geomar.de/arena/unreal-development/arena2lkit.git
