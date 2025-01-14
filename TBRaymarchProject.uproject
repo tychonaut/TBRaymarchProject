@@ -60,6 +60,10 @@
 		{
 			"Name": "DisplayClusterLaunch",
 			"Enabled": true
+		},
+		{
+			"Name": "OptitrackLiveLink",
+			"Enabled": true
 		}
 	]
 }
