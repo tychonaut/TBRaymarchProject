@@ -1,6 +1,9 @@
 [submodule "Plugins/TBRaymarcherPlugin"]
 	path = Plugins/TBRaymarcherPlugin
-	url = https://github.com/tommybazar/TBRaymarcherPlugin.git
+	url = https://github.com/tychonaut/TBRaymarcherPlugin.git
+	branch = 5.4-with-mods
 [submodule "Plugins/ARENA2lkit"]
 	path = Plugins/ARENA2lkit
 	url = https://git.geomar.de/arena/unreal-development/arena2lkit.git
+	branch = local-multi-instance-ndisplay
+
